@@ -2,7 +2,7 @@
 
 <p align="center" >
 
- <img src="resources/Introduction.gif" alt="Hi, I'm Rajveer Goud, Software Engineer, Lifelong Learner">
+ <img src="https://github.in/rajveergoudxd/rajveergoudxd/resources/Introduction.gif" alt="Hi, I'm Rajveer Goud, Software Engineer, Lifelong Learner">
 
 </p>
 
