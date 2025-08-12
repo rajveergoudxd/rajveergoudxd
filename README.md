@@ -6,6 +6,9 @@
 
 </p>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/rajveer-goud?theme=dark&font=Noto%20Sans%20Syriac&ext=heatmap)
+
+
 <!--
 **rajveergoudxd/rajveergoudxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
