@@ -6,7 +6,16 @@
 
 </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/rajveer-goud?theme=dark&font=Noto%20Sans%20Syriac&ext=heatmap)
+
+<div align="center">
+
+ 
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/rajveer-goud?theme=dark&font=Noto%20Sans%20Syriac&ext=heatmap)
+
+ 
+</div>
+
+
 
 
 <!--
