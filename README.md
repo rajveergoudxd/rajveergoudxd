@@ -1,8 +1,8 @@
-## Hi there 👋
+
 
 <p align="center" >
 
- <img src="" alt="Hi, I'm Rajveer Goud, Software Engineer, Lifelong Learner">
+ <img src="resources/Introduction.gif" alt="Hi, I'm Rajveer Goud, Software Engineer, Lifelong Learner">
 
 </p>
 
